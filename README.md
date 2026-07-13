@@ -1,2 +1,1 @@
-# Js-Blog-list
-Js Fetch APİ ile blog listeleme
+Blog listing interface using Vanilla JavaScript and the Fetch API.
